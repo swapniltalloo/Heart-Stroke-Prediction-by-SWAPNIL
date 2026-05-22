@@ -34,13 +34,14 @@ Project Structure
 
 ```bash
 Project1/
-│── app.py
-│── heart.csv
-│── knn_heart_model.pkl
-│── heart_scaler.pkl
-│── heart_columns.pkl
 │── HeartdiseaseFinal.ipynb
 │── README.md
+| ── app.py
+│── heart.csv
+│── heart_columns.pkl
+│── heart_scaler.pkl
+│── knn_heart_model.pkl
+│
 ```
 
 ---
